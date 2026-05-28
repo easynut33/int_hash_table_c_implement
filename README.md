@@ -1,1 +1,1 @@
-# intHashtable_C_implement
+# int_hash_table_c_implement
